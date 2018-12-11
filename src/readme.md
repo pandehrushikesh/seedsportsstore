@@ -1,0 +1,1 @@
+Command to start json server: npm start json
